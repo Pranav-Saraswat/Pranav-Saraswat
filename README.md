@@ -14,6 +14,3 @@ I'm a Student, a noob . I love Tech Stuffs.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Makoto-XD&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Makoto-XD&theme=monokai)](https://github.com/Makoto-XD/Makoto-XD)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makoto-XD&layout=compact&theme=tokyonight)](https://github.com/Makoto-XD/Makoto-XD)
