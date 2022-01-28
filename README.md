@@ -6,7 +6,7 @@ I'm a Student, a noob . I love Tech Stuffs.
  
 - **Currently learning: C, C++, Java, etc**
 
-### Find me out at
+## Find me out at
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Hunter_Opp)
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hunter-Opp/&title=Profile%20Views)
