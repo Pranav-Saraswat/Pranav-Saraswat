@@ -1,10 +1,9 @@
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi Guys <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm a Student, a noob . I love Tech Stuffs.
-
-- **Languages learnt: Python**
+I am Hunter XD. I am Extreme Noob In all Things. I Love to check and know About Tech Stuff
+I want to learn all tech stuff which i can able to do in daily purpose
  
-- **Currently learning: C, C++, Java, etc**
+- **Currently learning: Python, C, C++, Java, etc**
 
 ## Find me out at
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/HunterXD)
