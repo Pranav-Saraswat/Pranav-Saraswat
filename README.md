@@ -1,6 +1,6 @@
 ## Hi Guys <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I am Hunter XD. I am Extreme Noob In all Things. I Love to check and know About Tech Stuff
+I am Hunter XD. I am Extreme Noob In all Things. I Love to check and know more About Tech Stuff
 I want to learn all tech stuff which i can able to do in daily purpose
  
 - **Currently learning: Python, C, C++, Java, etc**
