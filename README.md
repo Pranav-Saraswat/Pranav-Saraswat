@@ -1,7 +1,8 @@
 ## Hi Guys <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I am Hunter XD. I am Extreme Noob In all Things. I Love to check and know more About Tech Stuff
-I want to learn all tech stuff which i can able to do in daily purpose
+I am Hunter XD. I am Extremely Noob In all Things. I Love to check ,examine and know more About Tech Stuff
+
+I want to learn all tech stuff which I can able to do in daily purpose
  
 - **Currently learning: Python, C, C++, Java, etc**
 
@@ -13,3 +14,5 @@ I want to learn all tech stuff which i can able to do in daily purpose
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Hunter-XD&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hunter-XD&theme=monokai)](https://github.com/Hunter-XD/Hunter-XD)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter-XD&layout=compact&theme=tokyonight)](https://github.com/Hunter-XD/Hunter-XD)
