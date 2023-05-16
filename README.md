@@ -1,7 +1,7 @@
 ## Hi Guys <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 # 💫 About Me:
-🔭 I’m Currently Preparing For Cloud Certifications.<br>🌱 I’m currently Exploring for New Tech Stuff.<br>🤔 Want to Work At Product based companies .<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>😄 Pronouns: He/His
+🔭 I’m Currently Learning DevOps.<br>🌱 I’m Looking for work.<br>🤔 I am Exploring and Working on Projects.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>😄 Pronouns: He/His
 
 
 ## 🌐 Socials:
