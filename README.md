@@ -12,7 +12,7 @@ Continuous Integration/Continuous Deployment (CI/CD): Experienced in setting up 
 Monitoring and Logging: Familiar with tools like Prometheus, Grafana, and ELK Stack for real-time monitoring, logging, and performance optimization.
 Security and Compliance: Knowledgeable about cloud security best practices, implementing IAM policies, encryption, and compliance standards such as GDPR and HIPAA.
 
-📧 Feel free to reach out at pranavsaraswat20040124@gmail.com or connect with me here on [LinkedIn](https://www.linkedin.com/in/pranav-saraswat/).
+📧 Feel free to reach out at [Telegram](https://t.me/pranav_saraswat) or connect with me here on [LinkedIn](https://www.linkedin.com/in/pranav-saraswat/).
 
 
 ## 🌐 Socials:
