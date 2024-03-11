@@ -6,10 +6,15 @@ I'm passionate about crafting robust cloud infrastructure solutions that drive b
 🔧 My skill set includes:
 
 Cloud Platforms: Proficient in AWS, Azure, and Google Cloud Platform, with hands-on experience in designing and implementing multi-cloud architectures.
+
 Infrastructure as Code (IaC): Expertise in Terraform and CloudFormation for automating infrastructure provisioning, configuration, and management.
+
 Containerization: Skilled in Docker and Kubernetes for container orchestration, deployment, and scaling.
+
 Continuous Integration/Continuous Deployment (CI/CD): Experienced in setting up pipelines using Jenkins, GitLab CI/CD, and AWS CodePipeline to automate software delivery processes.
+
 Monitoring and Logging: Familiar with tools like Prometheus, Grafana, and ELK Stack for real-time monitoring, logging, and performance optimization.
+
 Security and Compliance: Knowledgeable about cloud security best practices, implementing IAM policies, encryption, and compliance standards such as GDPR and HIPAA.
 
 📧 Feel free to reach out at [Telegram](https://t.me/pranav_saraswat) or connect with me here on [LinkedIn](https://www.linkedin.com/in/pranav-saraswat/).
