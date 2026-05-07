@@ -57,18 +57,20 @@ Cloud and DevOps enthusiast focused on building scalable infrastructure, automat
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav-Saraswat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Saraswat&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Saraswat&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Pranav-Saraswat&show_icons=true&theme=github_dark&hide_border=true" height="165">
 
-## 🏆 GitHub Achievements
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Saraswat&layout=compact&theme=github_dark&hide_border=true" height="165">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranav-Saraswat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Pranav-Saraswat&theme=github-dark&hide_border=true">
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pranav-Saraswat&theme=discord&no-frame=true&row=1&column=6">
+
+</div>
