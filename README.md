@@ -59,11 +59,13 @@ Cloud and DevOps enthusiast focused on building scalable infrastructure, automat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pranav-Saraswat&show_icons=true&theme=github_dark&hide_border=true" height="165">
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Pranav-Saraswat&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Saraswat&layout=compact&theme=github_dark&hide_border=true" height="165">
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranav-Saraswat&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=Pranav-Saraswat&theme=github-dark&hide_border=true">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Saraswat&theme=github-dark&hide_border=true&area=true"/>
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav-Saraswat&theme=github_dark"/>
 
 </div>
 
