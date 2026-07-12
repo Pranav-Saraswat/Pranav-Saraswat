@@ -237,8 +237,8 @@ Here is a deep dive into the systems I have designed, highlighting their archite
 
 <p align="center">
   <!-- Trophies (Uses a reliable community mirror. Replace base URL with your own Vercel deploy if needed) -->
-  <!-- Mirrors: github-profile-trophy-winning.vercel.app | trophy.benkou.dev | github-profile-trophy-unserori.vercel.app -->
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=Pranav-Saraswat&theme=discord&no-frame=true&row=1&column=6" alt="Trophies" />
+  <!-- Mirrors: github-profile-trophy-unserori.vercel.app | trophy.benkou.dev | github-trophies.devomb.com -->
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=Pranav-Saraswat&theme=discord&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ### 🐍 Contribution Journey
@@ -288,7 +288,7 @@ Here is a deep dive into the systems I have designed, highlighting their archite
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0Y3E2bHF5ZXE1bjVwcmxseDcybW50MHBnZWhlZnpsMGkyNDR5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L333CZZm8QgG2C4LaS/giphy.gif" width="50px" alt="Animated Wave" />
   
   <p style="font-size: 11px; color: #58a6ff;">
-    © 2026 Pranav Saraswat • Designed with Antigravity
+    © 2026 Pranav Saraswat
   </p>
 
 </div>
