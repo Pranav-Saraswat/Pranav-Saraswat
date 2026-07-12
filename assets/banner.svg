@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 260" width="100%" height="100%" style="border-radius: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d" />
+      <stop offset="50%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+
+    <!-- Text & Glow Gradient -->
+    <linearGradient id="primary-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="50%" stop-color="#4FACFE" />
+      <stop offset="100%" stop-color="#7F00FF" />
+    </linearGradient>
+
+    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#7F00FF" stop-opacity="0.2" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1" />
+    </pattern>
+
+    <!-- Drop Shadows / Glows -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="100%" height="100%" fill="url(#bg-grad)" rx="12" />
+  <rect width="100%" height="100%" fill="url(#grid)" rx="12" />
+
+  <!-- Glowing background elements representing Cloud Nodes -->
+  <circle cx="150" cy="50" r="100" fill="#00F2FE" opacity="0.05" filter="url(#glow)" />
+  <circle cx="750" cy="180" r="120" fill="#7F00FF" opacity="0.05" filter="url(#glow)" />
+
+  <!-- High-tech infrastructure grid nodes and links -->
+  <g stroke="#00F2FE" stroke-opacity="0.15" stroke-width="1.5">
+    <line x1="50" y1="130" x2="120" y2="70" />
+    <line x1="120" y1="70" x2="220" y2="70" />
+    <line x1="120" y1="70" x2="170" y2="150" />
+    <line x1="220" y1="70" x2="290" y2="120" />
+    <line x1="170" y1="150" x2="290" y2="120" />
+    <line x1="290" y1="120" x2="350" y2="60" />
+    <line x1="290" y1="120" x2="410" y2="180" />
+  </g>
+
+  <!-- Node points -->
+  <g fill="#4FACFE">
+    <circle cx="50" cy="130" r="4" fill="#00F2FE" />
+    <circle cx="120" cy="70" r="5" />
+    <circle cx="220" cy="70" r="4" />
+    <circle cx="170" cy="150" r="5" />
+    <circle cx="290" cy="120" r="6" fill="#7F00FF" />
+    <circle cx="350" cy="60" r="4" />
+    <circle cx="410" cy="180" r="5" />
+  </g>
+
+  <!-- Right side decorative brackets representing code/IaC -->
+  <path d="M 720,60 L 760,60 L 760,200 L 720,200" fill="none" stroke="url(#accent-grad)" stroke-width="3" stroke-linecap="round" opacity="0.4" />
+  <path d="M 780,200 L 800,200 L 800,60 L 780,60" fill="none" stroke="url(#accent-grad)" stroke-width="1.5" stroke-linecap="round" opacity="0.2" />
+
+  <!-- Main Content -->
+  <g transform="translate(60, 0)">
+    <!-- GCP Badge Indicator -->
+    <g transform="translate(0, 50)">
+      <rect x="0" y="0" width="195" height="24" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1" />
+      <circle cx="12" cy="12" r="6" fill="#34A853" />
+      <text x="26" y="16" fill="#94a3b8" font-size="11" font-weight="600" letter-spacing="1">GCP PROFESSIONAL ARCHITECT</text>
+    </g>
+
+    <!-- Name with Gradient Fill -->
+    <text x="0" y="130" fill="url(#primary-grad)" font-size="44" font-weight="800" letter-spacing="1.5" filter="url(#glow)">PRANAV SARASWAT</text>
+
+    <!-- Subtitle / Title -->
+    <text x="0" y="175" fill="#f8fafc" font-size="18" font-weight="600" letter-spacing="0.5">Cloud Engineer &amp; DevOps Architect</text>
+    
+    <!-- Focus Areas -->
+    <text x="0" y="205" fill="#94a3b8" font-size="13" font-weight="500" letter-spacing="1">
+      INFRASTRUCTURE AS CODE  •  KUBERNETES &amp; DOCKER  •  CI/CD  •  SRE
+    </text>
+  </g>
+
+  <!-- Pulsing Cloud Connection Ring (Bottom Right) -->
+  <circle cx="750" cy="130" r="30" fill="none" stroke="#00F2FE" stroke-width="1" stroke-opacity="0.3" />
+  <circle cx="750" cy="130" r="45" fill="none" stroke="#4FACFE" stroke-width="1" stroke-dasharray="4 4" stroke-opacity="0.2" />
+  <circle cx="750" cy="130" r="15" fill="url(#primary-grad)" opacity="0.8" />
+  <path d="M 742,130 L 758,130 M 750,122 L 750,138" stroke="#ffffff" stroke-width="2" />
+</svg>
