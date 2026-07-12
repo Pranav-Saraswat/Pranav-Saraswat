@@ -236,8 +236,9 @@ Here is a deep dive into the systems I have designed, highlighting their archite
 </p>
 
 <p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranav-Saraswat&theme=discord&no-frame=true&row=1&column=6" alt="Trophies" />
+  <!-- Trophies (Uses a reliable community mirror. Replace base URL with your own Vercel deploy if needed) -->
+  <!-- Mirrors: github-profile-trophy-winning.vercel.app | trophy.benkou.dev | github-profile-trophy-unserori.vercel.app -->
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=Pranav-Saraswat&theme=discord&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ### 🐍 Contribution Journey
