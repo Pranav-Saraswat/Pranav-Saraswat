@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- Visitor Counter -->
-  <img src="https://komarev.github.io/github-profile-visitor-counter/?username=Pranav-Saraswat&label=PROFILE%20VIEWS&color=00F2FE&style=flat-square" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Pranav-Saraswat&label=PROFILE%20VIEWS&color=00F2FE&style=flat-square" alt="Visitor Counter" />
   <!-- GCP Certification Badge -->
   <img src="https://img.shields.io/badge/GCP_PCA-Certified-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP PCA Certified" />
   <!-- License Badge -->
@@ -189,6 +189,21 @@ Here is a deep dive into the systems I have designed, highlighting their archite
 *   **Infrastructure:** Implemented horizontal scaling policies (HPA), Ingress NGINX rule layouts, and database state mappings in clean **Kubernetes** manifests.
 *   **Status & Roadmap:** `Active` | Next up: Introducing block-level deduplication algorithms to optimize bandwidth costs.
 *   **Links:** [📁 Repository Target](https://github.com/Pranav-Saraswat/BucketBackup) | [🌐 Deployment Guide](https://github.com/Pranav-Saraswat/BucketBackup#readme)
+
+---
+
+### 4. 🚀 TerraDeploy — Multi-Cloud IaC Automation & Orchestration
+> A unified multi-cloud infrastructure orchestration and lifecycle platform designed to deploy, manage, and audit resources across AWS, GCP, and Azure using GitOps best practices.
+
+*   **Problem Solved:** Managing state and enforcing security guardrails across multiple cloud providers manually can lead to configuration drift, security vulnerabilities, and cost overruns.
+*   **Architecture & Internals:**
+    *   Designed a multi-stage parallel deployment CI/CD workflow in **GitHub Actions** checking for lint errors (**TFLint**, **Checkov**, **TFSec**), cost shifts (**Infracost**), and compliance policies (**Open Policy Agent**).
+    *   Developed a **Next.js 16 App Router** dashboard that reads remote state parameters directly, visualizes compliance violations, and streams execution logs using Server-Sent Events (SSE).
+    *   Enforced security guardrails utilizing OPA policies in **Rego** to block public S3 buckets, open ingress ports, and wildcard IAM permissions.
+    *   Created automation lifecycle shell scripts for remote state bootstrapping, local dry-run validation, and environment health checks.
+*   **Infrastructure:** Provisioned modular AWS, GCP, and Azure configurations, separated using hard env isolation Dev/Staging/Prod parameters.
+*   **Status & Roadmap:** `Active` | Next up: Multi-tenant dynamic environment creation and direct Slack alerts routing.
+*   **Links:** [📁 Repository Target](https://github.com/Pranav-Saraswat/TerraDeploy) | [🌐 Architecture Documentation](https://github.com/Pranav-Saraswat/TerraDeploy#readme)
 
 ---
 
